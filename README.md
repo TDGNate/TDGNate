@@ -7,6 +7,7 @@ Software Developer
 My days is a mixture of gaming, programming, and sleeping :zzz:
 
 * 🌍  I'm based in U.S
+* 🖥️  See my portfolio at [My Portfolio](http://tdgnate.github.io/ChristianMc-Portfolio)
 * ✉️  You can contact me at [itsnzte@gmail.com](mailto:itsnzte@gmail.com)
 
 ### Skills
@@ -34,3 +35,7 @@ My days is a mixture of gaming, programming, and sleeping :zzz:
 <a href="http://www.github.com/TDGNate"><img src="https://github-readme-stats.vercel.app/api?username=TDGNate&show_icons=true&hide=stars,prs,&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="TDGNate's GitHub stats" /></a>
 
 <a href="http://www.github.com/TDGNate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TDGNate&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</hr>
+
+#### Created with [ProfileMe](https://www.profileme.dev/)
