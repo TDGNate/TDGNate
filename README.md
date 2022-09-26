@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color:#0088FF; font-weight: bold">Nate</span>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color:#0088FF; font-weight: bold">Nate</span> 🍪
 
 <p align="left"> <a style="margin-right: 5px" href="https://www.linkedin.com/in/christian-mcilvenny/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><a style="margin-right: 8px" href="https://www.instagram.com/imnzte"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a style="margin-right: 8px" href="https://discordapp.com/users/276568445796220928"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a style="margin-right: 5px" href="https://codepen.io/tdgnate"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
@@ -10,13 +10,13 @@ Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when m
 
 _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 - 🌍  I'm based in **U.S**
-- 🖥️ See my portfolio at **[Nate's Portfolio](http://tdgnate.github.io/ChristianMc-Portfolio)**
+- 🌇 See my portfolio at **[Nate's Portfolio](http://tdgnate.github.io/ChristianMc-Portfolio)**
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
 - ⚡ **Fun fact:** Big Brain = Big Games
 - ❤️ **Things I love**
-  - Games ([Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/))
-  - Coding (Constructing  code layout, and UI Designing)
-  - Others (painting/drawing, clementines, Teslas, Breaking Bad, The Office, and... sleeping)
+  - 🎮 Games ([Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/))
+  - 🖥️ Coding (Constructing  code layout, and UI Designing)
+  - 🏖 Others (painting/drawing, clementines, Teslas, Breaking Bad, The Office, and... sleeping)
 
 ---
 
