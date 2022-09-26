@@ -6,31 +6,21 @@
 
 ## <span style="color:#ff49f6; font-weight: bold">Software Developer</span>
 
-Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but this opened another door in which later I enrolled in a software engineer bootcamp at University of California, Riverside (UCR) where I became a Full-Stack software engineer and connected, collaborated, and met such amazing people!
+Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a software engineer bootcamp at University of California, Riverside where I became a Full-Stack software engineer!
 
 _My days are a mixture of gaming, programming, and sleeping_ :zzz:
-
----
-
----
-
 - 🌍  I'm based in **U.S**
 - 🖥️ See my portfolio at **[Nate's Portfolio](http://tdgnate.github.io/ChristianMc-Portfolio)**
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
 - ⚡ **Fun fact:** Big Brain = Big Games
 - ❤️ **Things I love**
-  - [Behaviour Interactive](https://www.bhvr.com/)
-  - [Big Blue Bubble](https://www.bigbluebubble.com/)
-  - [Treyarch](https://www.treyarch.com/)
-  - Tesla
-  - UI Designing
-
----
+  - Games ([Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/))
+  - Coding (Constructing  code layout, and UI Designing)
+  - Others (painting/drawing, clementines, Teslas, Breaking Bad, The Office, and... sleeping)
 
 ---
 
 ## Skills
-
 
 ### Languages/Frameworks
 
@@ -48,9 +38,7 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="45" height="45" style="margin-right: 8px;" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" style="margin-right: 8px;" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" style="margin-right: 8px;" alt="MySQL" /></a>
-
 </p>
-
 
 ### Tools and Technologies
 
@@ -63,12 +51,7 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </p>
-
----
-
----
 
 ## Trophies
 
@@ -81,8 +64,6 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 <a href="http://www.github.com/TDGNate"><img src="https://github-readme-stats.vercel.app/api?username=TDGNate&show_icons=true&hide=stars,prs,&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="TDGNate's GitHub stats" /></a>
 
 <a href="http://www.github.com/TDGNate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TDGNate&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
----
 
 ---
 
@@ -102,6 +83,3 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 - Ileriayo - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
 - Envoy-VC - [awesome-badges](https://github.com/Envoy-VC/awesome-badges)
 
----
-
----
