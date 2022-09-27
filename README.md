@@ -13,8 +13,8 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
 - ⚡ **Fun fact:** Big Brain === Big Games
 - ❤️ **Things I love...**<details> <summary>Click here view more!</summary>
-  - 🎮 Games ([Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/))
-  - 🖥️ Coding (Constructing  code layout, and UI Designing)
+  - 🎮 Games ( [Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/) )
+  - 🖥️ Coding ( Constructing  code layout, and UI Designing )
   - 🎥 Movies/Shows ( Breaking Bad, The Office, Shawshank Redemption, Green Mile, The Giver, WALL-E 😏 )
   - 🏖 Others ( painting/drawing, clementines, Teslas, and... more sleeping )
   </details>
