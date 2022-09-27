@@ -70,18 +70,8 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 ---
 
 ```
-“If you want something you've never had You must be willing to do something you've never done.” - Thomas Jefferson
+Teamwork makes the dreamwork
 ```
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdgnate&label=Profile%20views&color=0e75b6&style=flat" alt="tdgnate" /> </p>
-
-#### Template by: [ProfileMe](https://www.profileme.dev/)
-
-#### Trophies by: [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Badges by:
-
-- Ileriayo - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
-- Envoy-VC - [awesome-badges](https://github.com/Envoy-VC/awesome-badges)
-
