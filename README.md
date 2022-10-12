@@ -11,10 +11,10 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 - 🌍  I'm based in **U.S**
 - 🌇 See my portfolio at **[Nate's Portfolio](https://tdgnate.github.io/react-portfolio/)**
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
-- ⚡ **Fun fact:** Big Brain === Big Games
+- ⚡ **Fun fact:** Big Brain **===** Big Games
 - ❤️ **Things I love...**<details> <summary>Click here view more!</summary>
   - 🎮 Games ( [Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/) )
-  - 🖥️ Coding ( Constructing  code layout, and UI Designing )
+  - 🖥️ Coding ( Constructing code layout, and UI Designing )
   - 🎥 Movies/Shows ( Breaking Bad, The Office, Shawshank Redemption, Green Mile, The Giver, WALL-E 😏 )
   - 🏖 Others ( painting/drawing, clementines, Teslas, and... more sleeping )
   </details>
@@ -71,6 +71,5 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 ```
 Teamwork makes the dreamwork!
 ```
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdgnate&label=Profile%20views&color=0e75b6&style=flat" alt="tdgnate" /> </p>
