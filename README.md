@@ -9,7 +9,7 @@ Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when m
 
 _My days are a mixture of gaming, programming, and sleeping_ :zzz:
 - 🌍  I'm based in **U.S**
-- 🌇 See my portfolio at **[Nate's Portfolio](https://tdgnate.github.io/react-portfolio/)**
+- 🌇 See my portfolio at **[Nate's Portfolio](https://natemci.com)**
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
 - ⚡ **Fun fact:** Big Brain **===** Big Games
 - ❤️ **Things I love...**<details> <summary>Click here view more!</summary>
