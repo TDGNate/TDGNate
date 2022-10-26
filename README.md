@@ -7,7 +7,7 @@
 
 Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a software engineer bootcamp at University of California, Riverside where I became a Full-Stack software engineer!
 
-_My days are a mixture of gaming, programming, and sleeping_ :zzz:
+_My days are a mixture of gaming, programming, and designing_
 - 🌍  I'm based in **U.S**
 - 🌇 See my portfolio at **[Nate's Portfolio](https://natemci.com)**
 - ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
@@ -16,7 +16,7 @@ _My days are a mixture of gaming, programming, and sleeping_ :zzz:
   - 🎮 Games ( [Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/) )
   - 🖥️ Coding ( Constructing code layout, and UI Designing )
   - 🎥 Movies/Shows ( Breaking Bad, The Office, Shawshank Redemption, Green Mile, The Giver, WALL-E 😏 )
-  - 🏖 Others ( painting/drawing, clementines, Teslas, and... more sleeping )
+  - 🏖 Others ( painting/drawing, clementines, Teslas, and... sleeping )
   </details>
 
 ---
