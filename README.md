@@ -3,7 +3,7 @@
 <p align="left"> <a style="margin-right: 5px" href="https://www.linkedin.com/in/christian-mcilvenny/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a style="margin-right: 8px" href="https://www.instagram.com/imnzte"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a style="margin-right: 8px" href="https://discordapp.com/users/276568445796220928"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a style="margin-right: 5px" href="https://codepen.io/tdgnate"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
 
-## <span style="color:#ff49f6; font-weight: bold">Software Developer</span>
+## <span style="color:#ff49f6; font-weight: bold">Full-Stack Software Developer</span>
 
 Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a software engineer bootcamp at University of California, Riverside where I became a Full-Stack software engineer!
 
@@ -16,7 +16,7 @@ _My days are a mixture of gaming, programming, and designing_
   - 🎮 Games ( [Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/) )
   - 🖥️ Coding ( Constructing code layout, and UI Designing )
   - 🎥 Movies/Shows ( Breaking Bad, The Office, Shawshank Redemption, Green Mile, The Giver, WALL-E 😏 )
-  - 🏖 Others ( painting/drawing, clementines, Teslas, and... sleeping )
+  - 🏖 Others ( painting/drawing, clementines, Teslas, and crafting )
   </details>
 
 ---
