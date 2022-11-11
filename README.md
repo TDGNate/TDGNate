@@ -5,7 +5,7 @@
 
 ## <span style="color:#ff49f6; font-weight: bold">Full-Stack Software Developer</span>
 
-Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a software engineer bootcamp at University of California, Riverside where I became a Full-Stack software engineer!
+Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a Full-Stack Software Engineer Bootcamp at University of California, Riverside.
 
 _My days are a mixture of gaming, programming, and designing_
 - 🌍  I'm based in **U.S**
