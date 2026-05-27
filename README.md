@@ -1,22 +1,20 @@
-# 🎃 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color:#0088FF; font-weight: bold">Nate</span> 🎃
+#  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color:#0088FF; font-weight: bold">Nate</span> 
 
 <p align="left"> <a style="margin-right: 5px" href="https://www.linkedin.com/in/christian-mcilvenny/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a style="margin-right: 8px" href="https://www.instagram.com/imnzte"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a style="margin-right: 8px" href="https://discordapp.com/users/276568445796220928"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a style="margin-right: 5px" href="https://codepen.io/tdgnate"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
 
 ## <span style="color:#ff49f6; font-weight: bold">Full-Stack Software Developer</span>
 
-Hello, I'm Christian McIlvenny but you can call me Nate! My journey began when my CyberSecurity teacher made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a Full-Stack Software Engineer Bootcamp at University of California, Riverside.
+Hello, I'm Christian Nathaniel McIlvenny but I also go by Nate! My journey began when my CyberSecurity teacher in HS made us write our first line of code and revealed the fundamentals of computers and technology. This led to me taking a JavaScript Web Development class in college, but later I enrolled in a Full-Stack Software Engineer Bootcamp at University of California, Riverside. I'm later went to California Baptist University and switched my major to Mechanical Engineering/Mechatronics. 
 
 _My days are a mixture of gaming, programming, and designing_
 - 🌍  I'm based in **U.S**
 - 🌇 See my portfolio at **[Nate's Portfolio](https://natemci.com)**
-- ✉️  You can contact me at **[itsnzte@gmail.com](mailto:itsnzte@gmail.com)**
 - ⚡ **Fun fact:** Big Brain **===** Big Games
 - ❤️ **Things I love...**<details> <summary>Click here view more!</summary>
   - 🎮 Games ( [Behaviour Interactive](https://www.bhvr.com/), [Big Blue Bubble](https://www.bigbluebubble.com/), [Treyarch](https://www.treyarch.com/) )
-  - 🖥️ Coding ( Constructing code layout, and UI Designing )
-  - 🎥 Movies/Shows ( Breaking Bad, The Office, Shawshank Redemption, Green Mile, The Giver, WALL-E 😏 )
-  - 🏖 Others ( painting/drawing, clementines, Teslas, and crafting )
+  - 🖥️ Programming ( Constructing code layout, and UI Designing )
+  - 🏖 Others ( painting/drawing, robots, and building things )
   </details>
 
 ---
@@ -54,11 +52,6 @@ _My days are a mixture of gaming, programming, and designing_
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
 
-## Trophies 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="min-width: 425px;" src="https://github-profile-trophy.vercel.app/?theme=algolia&username=TDGNate&row=1&margin-w=21&margin-h=21" alt="tdgnate" /></a> </p>
-
-## Badges
 
 <b>My GitHub Stats</b>
 
