@@ -38,14 +38,15 @@
 <h3 align="center">A little activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TDGNate&show_icons=true&hide=stars,prs&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" height="165" alt="Nate's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TDGNate&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="165" alt="Nate's streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://beta.ourmanna.com/api/v1/get?format=image" alt="Verse of the Day" />
+  <i>"I am the way and the truth and the life.<br>No one comes to the Father except through me."</i>
+  <br><br>
+  <b>— John 14:6</b>
 </p>
 
 <p align="center">
